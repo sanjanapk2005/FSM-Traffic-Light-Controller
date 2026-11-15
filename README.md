@@ -38,3 +38,11 @@ The controller manages traffic light signals through sequential state transition
 - Sequential circuit design using Verilog.
 - Clock-based state transitions.
 - Functional verification using testbenches.
+
+  ## FSM Block Diagram
+
+![FSM Block Diagram](fsm_traffic_light_controller_block_diagram.png)
+
+## Simulation Results
+
+![Simulation Waveform](fsm_traffic_light_controller_simulation_waveform.png)
