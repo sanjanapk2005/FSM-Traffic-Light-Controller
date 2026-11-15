@@ -41,7 +41,7 @@ The controller manages traffic light signals through sequential state transition
 
   ## FSM Block Diagram
 
-![FSM Block Diagram](fsm_traffic_light_controller_block_diagram.png)
+![FSM Block Diagram](fsm_traffic_light_controller__block_diagram.png)
 
 ## Simulation Results
 
